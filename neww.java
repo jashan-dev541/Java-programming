@@ -15,6 +15,7 @@ public class neww{
         // System.out.println(name);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         System.out.println(a+b);
     }
 }

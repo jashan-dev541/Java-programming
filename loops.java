@@ -15,6 +15,7 @@ public class loops {
         //pattern printing
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(); 
+        sc.close();
         // int b = sc.nextInt();
 
         //pattern 1 : square

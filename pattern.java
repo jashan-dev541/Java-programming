@@ -6,6 +6,7 @@ public class pattern{
 
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
+        sc.close();
         
         // for (int i = 1; i <= a; i++) {
 
