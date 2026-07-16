@@ -1,4 +1,4 @@
-                //Sum of each element of matrix
+//                 Sum of each element of matrix
 
 // import java.util.*;
 // public class td_arrays {
@@ -29,7 +29,7 @@
 // }
 
 
-                //Sum of the elements row-wise for each row
+//                 Sum of the elements row-wise for each row
 // import java.util.*;
 // public class td_arrays{
 //     public static void main(String args[]){
@@ -67,7 +67,7 @@
 // }
 
 
-                //Transpose of matrix
+//                 Transpose of matrix
 // import java.util.Scanner;
 // public class td_arrays{
 //     public static void main(String args[]){
@@ -102,4 +102,3 @@
 // }
 
 
-public class mai
